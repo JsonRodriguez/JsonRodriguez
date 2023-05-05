@@ -7,7 +7,7 @@ FrontEnd Developer
 I am a tech enthusiast who loves learning about and integrating technology into my life.
 
 * 🌍  I'm based in I'm based in Colombia
-* 🖥️  See my portfolio at [Aun no](http://aunno.com)
+* 🖥️  See my portfolio at [Working in progress...](http://aunno.com)
 * ✉️  You can contact me at [jeiquinrodriguez@gmail.com](mailto:jeiquinrodriguez@gmail.com)
 * 🧠  I'm learning I am currently specializing in React
 
@@ -27,3 +27,4 @@ I am a tech enthusiast who loves learning about and integrating technology into 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
 </p>
+
