@@ -7,7 +7,7 @@ FrontEnd Developer
 I am a tech enthusiast who loves learning about and integrating technology into my life.
 
 * 🌍  I'm based in I'm based in Colombia
-* 🖥️  See my portfolio at [Working in progress...](http://aunno.com)
+* 🖥️  See my portfolio at https://jsonrodriguez-portfolio.netlify.app/
 * ✉️  You can contact me at [jeiquinrodriguez@gmail.com](mailto:jeiquinrodriguez@gmail.com)
 * 🧠  I'm learning I am currently specializing in React
 
